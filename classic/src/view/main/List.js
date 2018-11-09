@@ -9,7 +9,7 @@ Ext.define('Watson.view.main.List', {
         'Watson.store.Personnel'
     ],
 
-    title: 'Personnel',
+    title: 'Personal',
 
     store: {
         type: 'personnel'
